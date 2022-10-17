@@ -13,4 +13,3 @@ elif men==9:print("Сентябрь")
 elif men==10:print("Октябрь")
 elif men==11:print("Ноябрь")
 elif men==12:print("Декабрь")
-
